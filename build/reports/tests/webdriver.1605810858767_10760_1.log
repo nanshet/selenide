@@ -1,0 +1,173 @@
+[1605810858.991][INFO]: Starting ChromeDriver 86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378}) on port 29147
+[1605810858.991][INFO]: Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+[1605810859.929][INFO]: [548ab5a4f38862d8935764fefecbbe8e] COMMAND InitSession {
+   "capabilities": {
+      "firstMatch": [ {
+         "acceptInsecureCerts": true,
+         "browserName": "chrome",
+         "goog:chromeOptions": {
+            "args": [ "--proxy-bypass-list=\u003C-loopback>", "--disable-dev-shm-usage", "--no-sandbox" ],
+            "excludeSwitches": [ "enable-automation", "load-extension" ],
+            "extensions": [  ],
+            "prefs": {
+               "credentials_enable_service": false,
+               "download.default_directory": "C:\\Users\\FAIZI\\eclipse-workspaceSelenium\\BullhornLatest\\bullhorn\\build\\downloads\\1605810857731_10760_1",
+               "plugins.always_open_pdf_externally": true
+            }
+         },
+         "pageLoadStrategy": "normal"
+      } ]
+   },
+   "desiredCapabilities": {
+      "acceptInsecureCerts": true,
+      "acceptSslCerts": true,
+      "browserName": "chrome",
+      "goog:chromeOptions": {
+         "args": [ "--proxy-bypass-list=\u003C-loopback>", "--disable-dev-shm-usage", "--no-sandbox" ],
+         "excludeSwitches": [ "enable-automation", "load-extension" ],
+         "extensions": [  ],
+         "prefs": {
+            "credentials_enable_service": false,
+            "download.default_directory": "C:\\Users\\FAIZI\\eclipse-workspaceSelenium\\BullhornLatest\\bullhorn\\build\\downloads\\1605810857731_10760_1",
+            "plugins.always_open_pdf_externally": true
+         }
+      },
+      "handlesAlerts": true,
+      "javascriptEnabled": true,
+      "pageLoadStrategy": "normal",
+      "takesScreenshot": true
+   }
+}
+[1605810859.934][INFO]: Populating Preferences file: {
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false
+   },
+   "credentials_enable_service": false,
+   "distribution": {
+      "import_bookmarks": false,
+      "import_history": false,
+      "import_search_engine": false,
+      "make_chrome_default_for_user": false,
+      "skip_first_run_ui": true
+   },
+   "dns_prefetching": {
+      "enabled": false
+   },
+   "download": {
+      "default_directory": "C:\\Users\\FAIZI\\eclipse-workspaceSelenium\\BullhornLatest\\bullhorn\\build\\downloads\\1605810857731_10760_1"
+   },
+   "plugins": {
+      "always_open_pdf_externally": true
+   },
+   "profile": {
+      "content_settings": {
+         "pattern_pairs": {
+            "https://*,*": {
+               "media-stream": {
+                  "audio": "Default",
+                  "video": "Default"
+               }
+            }
+         }
+      },
+      "default_content_setting_values": {
+         "geolocation": 1
+      },
+      "default_content_settings": {
+         "geolocation": 1,
+         "mouselock": 1,
+         "notifications": 1,
+         "popups": 1,
+         "ppapi-broker": 1
+      },
+      "password_manager_enabled": false
+   },
+   "safebrowsing": {
+      "enabled": false
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "translate": {
+      "enabled": false
+   }
+}
+[1605810859.942][INFO]: Populating Local State file: {
+   "background_mode": {
+      "enabled": false
+   },
+   "ssl": {
+      "rev_checking": {
+         "enabled": false
+      }
+   }
+}
+[1605810859.944][INFO]: Launching chrome: "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-background-networking --disable-client-side-phishing-detection --disable-default-apps --disable-dev-shm-usage --disable-hang-monitor --disable-popup-blocking --disable-prompt-on-repost --disable-sync --enable-blink-features=ShadowDOMV0 --enable-logging --ignore-certificate-errors --log-level=0 --no-first-run --no-sandbox --password-store=basic --proxy-bypass-list=<-loopback> --remote-debugging-port=0 --test-type=webdriver --use-mock-keychain --user-data-dir="C:\Users\FAIZI\AppData\Local\Temp\scoped_dir15440_1102614794" data:,
+[1605810860.816][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1605810862.866][INFO]: resolved localhost to ["::1","127.0.0.1"]
+[1605810864.919][INFO]: [548ab5a4f38862d8935764fefecbbe8e] RESPONSE InitSession {
+   "capabilities": {
+      "acceptInsecureCerts": true,
+      "browserName": "chrome",
+      "browserVersion": "86.0.4240.198",
+      "chrome": {
+         "chromedriverVersion": "86.0.4240.22 (398b0743353ff36fb1b82468f63a3a93b4e2e89e-refs/branch-heads/4240@{#378})",
+         "userDataDir": "C:\\Users\\FAIZI\\AppData\\Local\\Temp\\scoped_dir15440_1102614794"
+      },
+      "goog:chromeOptions": {
+         "debuggerAddress": "localhost:59831"
+      },
+      "networkConnectionEnabled": false,
+      "pageLoadStrategy": "normal",
+      "platformName": "windows",
+      "proxy": {
+
+      },
+      "setWindowRect": true,
+      "strictFileInteractability": false,
+      "timeouts": {
+         "implicit": 0,
+         "pageLoad": 300000,
+         "script": 30000
+      },
+      "unhandledPromptBehavior": "dismiss and notify",
+      "webauthn:virtualAuthenticators": true
+   },
+   "sessionId": "548ab5a4f38862d8935764fefecbbe8e"
+}
+[1605810865.041][INFO]: [548ab5a4f38862d8935764fefecbbe8e] COMMAND SetWindowRect {
+   "height": 768,
+   "width": 1366
+}
+[1605810865.041][INFO]: Waiting for pending navigations...
+[1605810865.045][INFO]: Done waiting for pending navigations. Status: ok
+[1605810865.213][INFO]: Waiting for pending navigations...
+[1605810865.214][INFO]: Done waiting for pending navigations. Status: ok
+[1605810865.214][INFO]: [548ab5a4f38862d8935764fefecbbe8e] RESPONSE SetWindowRect {
+   "height": 770,
+   "width": 1368,
+   "x": 8,
+   "y": 8
+}
+[1605810865.229][INFO]: [548ab5a4f38862d8935764fefecbbe8e] COMMAND SetTimeouts {
+   "pageLoad": 30000
+}
+[1605810865.229][INFO]: [548ab5a4f38862d8935764fefecbbe8e] RESPONSE SetTimeouts
+[1605810865.261][INFO]: [548ab5a4f38862d8935764fefecbbe8e] COMMAND Navigate {
+   "url": "http://book.theautomatedtester.co.uk/"
+}
+[1605810865.261][INFO]: Waiting for pending navigations...
+[1605810865.262][INFO]: Done waiting for pending navigations. Status: ok
+[1605810865.752][INFO]: Waiting for pending navigations...
+[1605810866.238][INFO]: Done waiting for pending navigations. Status: ok
+[1605810866.238][INFO]: [548ab5a4f38862d8935764fefecbbe8e] RESPONSE Navigate
+[1605810871.312][INFO]: [548ab5a4f38862d8935764fefecbbe8e] COMMAND Quit {
+
+}
+[1605810871.571][INFO]: [548ab5a4f38862d8935764fefecbbe8e] RESPONSE Quit

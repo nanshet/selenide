@@ -1,0 +1,15 @@
+2020-11-20 13:48:16,084 - Selenide Cucumber -INFO - ******** opening homepage *********
+2020-11-20 13:48:25,537 - Selenide Cucumber -INFO - ******** homepage Opened *********
+2020-11-20 13:48:26,587 - Selenide Cucumber -INFO - ******** Chapter1 Clicked *********
+2020-11-20 13:48:26,591 - Selenide Cucumber -INFO - ******** Verifying Text present *********
+2020-11-20 13:48:27,208 - Selenide Cucumber -INFO - ******** Back to Homepage *********
+2020-11-20 13:59:56,181 - Selenide Cucumber -INFO - ******** opening homepage *********
+2020-11-20 14:00:04,202 - Selenide Cucumber -INFO - ******** homepage Opened *********
+2020-11-20 14:00:04,752 - Selenide Cucumber -INFO - ******** Chapter1 Clicked *********
+2020-11-20 14:00:04,755 - Selenide Cucumber -INFO - ******** Verifying Text present *********
+2020-11-20 14:00:05,294 - Selenide Cucumber -INFO - ******** Back to Homepage *********
+2020-11-20 14:14:42,378 - Selenide Cucumber -INFO - ******** opening homepage *********
+2020-11-20 14:14:51,274 - Selenide Cucumber -INFO - ******** homepage Opened *********
+2020-11-20 14:14:52,181 - Selenide Cucumber -INFO - ******** Chapter1 Clicked *********
+2020-11-20 14:14:52,184 - Selenide Cucumber -INFO - ******** Verifying Text present *********
+2020-11-20 14:14:52,714 - Selenide Cucumber -INFO - ******** Back to Homepage *********

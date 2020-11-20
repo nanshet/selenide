@@ -1,0 +1,15 @@
+2020-11-20 13:48:16,084 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** opening homepage *********
+2020-11-20 13:48:25,537 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** homepage Opened *********
+2020-11-20 13:48:26,587 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Chapter1 Clicked *********
+2020-11-20 13:48:26,591 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Verifying Text present *********
+2020-11-20 13:48:27,208 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Back to Homepage *********
+2020-11-20 13:59:56,181 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** opening homepage *********
+2020-11-20 14:00:04,202 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** homepage Opened *********
+2020-11-20 14:00:04,752 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Chapter1 Clicked *********
+2020-11-20 14:00:04,755 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Verifying Text present *********
+2020-11-20 14:00:05,294 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Back to Homepage *********
+2020-11-20 14:14:42,378 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** opening homepage *********
+2020-11-20 14:14:51,274 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** homepage Opened *********
+2020-11-20 14:14:52,181 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Chapter1 Clicked *********
+2020-11-20 14:14:52,184 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Verifying Text present *********
+2020-11-20 14:14:52,714 [TestNG-test=Run All Tests-1] INFO Selenide Cucumber - ******** Back to Homepage *********
